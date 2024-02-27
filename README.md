@@ -18,3 +18,7 @@ npm start
 
 # OR using Yarn
 yarn start
+
+# screenshots
+
+![Screenshot 1](screenshots/Splash.png)
