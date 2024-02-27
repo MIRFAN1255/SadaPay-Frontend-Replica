@@ -18,4 +18,4 @@ npm start
 
 # OR using Yarn
 yarn start
-screenshots/BillsUtilities.png
+![Screenshot1](screenshots/BillsUtilities.png)
