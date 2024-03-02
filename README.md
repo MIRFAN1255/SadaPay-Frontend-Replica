@@ -18,6 +18,3 @@ npm start
 
 # OR using Yarn
 yarn start
-
-# screenshots
-https://github.com/MIRFAN1255/SadaPay-Frontend-Replica/issues/1#issue-2164977974
