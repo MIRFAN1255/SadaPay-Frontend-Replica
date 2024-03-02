@@ -20,5 +20,4 @@ npm start
 yarn start
 
 # screenshots
-
-![Screenshot 1](screenshots/Splash.png)
+https://github.com/MIRFAN1255/SadaPay-Frontend-Replica/issues/1#issue-2164977974
